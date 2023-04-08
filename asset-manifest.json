@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memory-game-sophrone/static/css/main.4982a6c7.css",
+    "main.js": "/memory-game-sophrone/static/js/main.3a36349a.js",
+    "static/media/kenny.png": "/memory-game-sophrone/static/media/kenny.a98a77930a737e408fea.png",
+    "static/media/beth.jpeg": "/memory-game-sophrone/static/media/beth.7ab391d2a6114b9fdcd8.jpeg",
+    "index.html": "/memory-game-sophrone/index.html",
+    "main.4982a6c7.css.map": "/memory-game-sophrone/static/css/main.4982a6c7.css.map",
+    "main.3a36349a.js.map": "/memory-game-sophrone/static/js/main.3a36349a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4982a6c7.css",
+    "static/js/main.3a36349a.js"
+  ]
+}
